@@ -23,6 +23,10 @@
   font-size: 25px;
 }
 
+.btn-p {
+  background-color: rgb(69, 194, 10) !important;
+}
+
 .carousel-item img {
   height: 475px;
   object-fit: cover;
@@ -80,13 +84,13 @@
 .multimedia {
   padding-bottom: 20px;
 }
+.multimedia h2, .multimedia p {
+  padding: 30px;
+}
 .multimedia img {
   width: 100%;
   height: 250px;
   object-fit: cover;
-}
-.multimedia img p {
-  padding: 35px;
 }
 
 .contenido1_question, .contenido1_form {
